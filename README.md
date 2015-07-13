@@ -1,14 +1,4 @@
-=== Olympus Widgets ===
-Contributors: DannyCooper
-Tags: author widget, dribbble widget, facebook widget, featured posts widget, flickr widget, social widget, twitter widget, video widget
-Requires at least: 4.0
-Tested up to: 4.2.2
-License: GPLv2 or later
-Stable tag: trunk
-
-Adds eight new widgets you can use in your sidebar.
-
-== Description ==
+# [Olympus Widgets](https://olympusthemes.com/widgets) #
 
 Adds eight new widgets you can use in your sidebar.
 
@@ -40,18 +30,16 @@ Display your latest tweets in the sidebar.
 
 Embed a video (YouTube, HTML5, etc) in your sidebar.
 
-== Installation ==
-
-1. Upload `olympus-widgets.php` to the `/wp-content/plugins/` directory
-2. Activate the plugin through the 'Plugins' menu in WordPress
-
-== Changelog ==
-
-= 1.0.1 =
-* Added: uninstall.php to clean database on plugin deletion.
-* Fixed: email icon outputting email address as URL
-
-= 1.0.0 =
-* Initial release
+## Bugs ##
+If you find an issue, let us know [here](https://github.com/DannyCooper/olympus-widgets/issues)!
 
 
+## Contributions ##
+Anyone is welcome to contribute to Olympus Widgets.
+
+There are various ways you can contribute:
+
+1. Raise an [Issue](https://github.com/DannyCooper/olympus-widgets/issues) on GitHub
+2. Send us a Pull Request with your bug fixes and/or new features
+3. Translate Easy Digital Downloads into [different languages](https://www.transifex.com/projects/p/olympus-widgets/)
+4. Provide feedback and suggestions on [enhancements](https://github.com/DannyCooper/olympus-widgets/issues?direction=desc&labels=Enhancement&page=1&sort=created&state=open)
