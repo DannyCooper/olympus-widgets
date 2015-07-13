@@ -1,4 +1,4 @@
-# [Olympus Widgets](https://olympusthemes.com/widgets) #
+# [Olympus Widgets](https://wordpress.org/plugins/olympus-widgets/) #
 
 Adds eight new widgets you can use in your sidebar.
 
