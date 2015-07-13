@@ -1,0 +1,221 @@
+/* Dribbble Widget Styles
+================================================== */
+.dribbbles {
+	list-style-type: none;
+	margin: 0 0 1.5em;
+}
+.dribbbles li {
+	position: relative;
+	padding: 0;
+	margin: 0 5% 5% 0;
+	float: left;
+	width: 45%;
+}
+.dribbbles .dribbble-shot {
+	padding: 10px;
+}
+
+.dribbbles img {
+	margin: 0;
+	opacity: 1;
+	-webkit-transition: opacity 0.2s linear;
+	-o-transition: opacity 0.2s linear;
+	-moz-transition: opacity 0.2s linear;
+}
+.dribbbles a:hover img {
+	opacity: 0.5;
+	-webkit-transition: opacity 0.2s linear;
+	-o-transition: opacity 0.2s linear;
+	-moz-transition: opacity 0.2s linear;
+}
+.dribbbles .dribbble-img {
+	overflow: hidden;
+	border-radius: 3px;
+}
+
+/* Social Profile Widget Styles
+================================================== */
+
+.social-widget li {
+	border-bottom: 0;
+	background: none;
+	float: left;
+	padding: 0 10px 10px 0;
+}
+
+@font-face {
+	font-family: 'si';
+	src: url('fonts/socicon.eot');
+	src: url('fonts/socicon.eot?#iefix') format('embedded-opentype'),
+		 url('fonts/socicon.woff') format('woff'),
+		 url('fonts/socicon.ttf') format('truetype'),
+		 url('fonts/socicon.svg#icomoonregular') format('svg');
+	font-weight: normal;
+	font-style: normal;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+	@font-face {
+		font-family:si;
+		src: url(fonts/socicon.svg) format(svg);
+	}
+}
+
+.social-widget li a {
+	font-family:si!important;
+	font-style:normal;
+	font-weight:400;
+	-webkit-font-smoothing:antialiased;
+	-moz-osx-font-smoothing:grayscale;
+	-webkit-box-sizing:border-box;
+	-moz-box-sizing:border-box;
+	-ms-box-sizing:border-box;
+	-o-box-sizing:border-box;
+	box-sizing:border-box;
+	overflow:hidden;
+	text-decoration:none;
+	text-align:center;
+	display:block;
+	position: relative;
+	z-index: 1;
+	width: 32px;
+	height: 32px;
+	line-height: 32px;
+	font-size: 17px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	margin-right: 10px;
+	color: #ffffff;
+	background-color: none;
+}
+
+.olympus_icon-last{
+	margin:0 !important;
+}
+
+.olympus_twitter_url {
+	background-color: #4da7de;
+}
+.olympus_twitter_url:before {
+	content:'a';
+}
+.olympus_facebook_url {
+	background-color: #3e5b98;
+}
+.olympus_facebook_url:before {
+	content:'b';
+}
+.olympus_google_url {
+	background-color: #d93e2d;
+}
+.olympus_google_url:before {
+	content:'c';
+}
+.olympus_pinterest_url {
+	background-color: #c92619;
+}
+.olympus_pinterest_url:before {
+	content:'d';
+}
+.olympus_linkedin_url {
+	background-color: #3371b7;
+}
+.olympus_linkedin_url:before {
+	content:'j';
+}
+.olympus_rss_url {
+	background-color: #f26109;
+}
+.olympus_rss_url:before {
+	content:',';
+}
+.olympus_youtube_url {
+	background-color: #e02a20;
+}
+.olympus_youtube_url:before {
+	content:'r';
+}
+.olympus_instagram_url {
+	background-color: #9c7c6e;
+}
+.olympus_instagram_url:before {
+	content:'x';
+}
+.olympus_email_url {
+	background-color: #578AD6;
+}
+.olympus_email_url:before {
+	content:'<';
+}
+
+
+
+/* Flickr Widget Styles
+================================================== */
+
+.flickr_badge_wrapper {
+	max-width: 100%;
+}
+
+.flickr_badge_image {
+	margin: 0;
+	display: inline;
+}
+.flickr_badge_image img {
+	margin: 0 5% 5% 0;
+	float: left;
+	width: 45%;
+	border-radius: 3px;
+}
+
+
+/* About Me Widget Styles
+================================================== */
+
+.olympus-author-image {
+	margin-bottom: 1em
+}
+
+/* Featured Posts Widget Styles
+================================================== */
+
+.olympus-featured-post {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #ECECEC;
+	padding-bottom: 20px;
+	text-align: center
+}
+
+.olympus-featured-post img {
+	border-radius: 3px;
+}
+
+.olympus-post-title {
+	margin-top: 1em;
+		margin-bottom: 0.25em;
+}
+
+.olympus-post-title a {
+	color: #363636;
+}
+
+.olympus-post-date {
+	color: #858585;
+}
+
+/* Twitter Widget Styles
+================================================== */
+
+.olympus-recent-tweets ul {
+	list-style: none
+}
+
+.olympus-recent-tweets ul li {
+	margin-bottom: 1em
+}
+
+.clear {
+	clear: both
+}
