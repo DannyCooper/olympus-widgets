@@ -41,5 +41,5 @@ There are various ways you can contribute:
 
 1. Raise an [Issue](https://github.com/DannyCooper/olympus-widgets/issues) on GitHub
 2. Send us a Pull Request with your bug fixes and/or new features
-3. Translate Easy Digital Downloads into [different languages](https://www.transifex.com/projects/p/olympus-widgets/)
+3. Translate Olympus Widgets into [different languages](https://www.transifex.com/projects/p/olympus-widgets/)
 4. Provide feedback and suggestions on [enhancements](https://github.com/DannyCooper/olympus-widgets/issues?direction=desc&labels=Enhancement&page=1&sort=created&state=open)
